@@ -1,0 +1,8 @@
+djitellopy == 2.5.0
+pygame
+opencv-python == 4.11.0.86
+opencv-contrib-python == 4.11.0.86 
+numpy == 2.2.2 
+scipy == 1.15.1 
+pykalman == 0.10.1 
+matplotlib == 3.10.0
